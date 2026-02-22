@@ -1,5 +1,5 @@
 # argocd-demos
-Demos of arogcd one shot video
+Demos of arogCD
 
 > [!IMPORTANT]
 > 
